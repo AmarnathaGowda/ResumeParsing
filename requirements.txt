@@ -1,0 +1,11 @@
+FastAPI
+Uvicorn
+python-multipart
+PyMuPDF
+# fitz
+six
+textract
+# uvicorn main:app --reload 
+pyproject
+spacy_transformers
+spacy
