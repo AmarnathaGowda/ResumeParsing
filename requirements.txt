@@ -7,5 +7,6 @@ six
 textract
 # uvicorn main:app --reload 
 pyproject
-spacy_transformers
-spacy
+scikit-learn
+# spacy_transformers
+# spacy
